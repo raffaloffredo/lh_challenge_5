@@ -1,10 +1,4 @@
 # Lighthouse Challenge 5 - Airflow DAG building
-<p align="center">
-  🚧🚧🚧
-  <br/>
-  UNDER CONSTRUCTION
-  
-</p>
 <br/>
 
 <p align="center">
